@@ -69,7 +69,7 @@ The overview of the project was to analyze risk associated with lenders acceptin
 
 After conducting the analysis of the six machine learning algorithms, the Easy Ensemble AdaBoost Classifier had the highest accuracy score, best precision and recall, which shows that it’s the most successful at predicting risk. 
 
-The Easy Ensemble AdaBoost Classifier model performed the best, showing that the accuracy score was 93.2% which means it is correct 93.2% of time, which is the highest of all the models analyzed. Additionally the models precision was 99% and the recall of 94%, which means that this model has the highest rate of detecting positive results. 
+The Easy Ensemble AdaBoost Classifier model performed the best, showing that the accuracy score was 93.2% which means it is correct 93.2% of time, which is the highest of all the models analyzed. Additionally, the model's precision was 99% and the recall of 94%, which means that this model has the highest rate of detecting positive results. 
 
 
 
